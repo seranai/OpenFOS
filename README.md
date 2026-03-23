@@ -44,3 +44,5 @@ The bottom line
 
 You do not need a $50,000 accelerator program or a Palo Alto zip code to build a world-class company. You need the right frameworks, the right questions, and the discipline to execute. OpenFOS gives you all three — powered by AI, for free, forever.
 
+Arshad Sayyad
+arshadsayyad.com
